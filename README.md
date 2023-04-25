@@ -1,4 +1,4 @@
-# practice
+# Vet & Pet Master
 
 ## Project setup
 ```
